@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1efe0;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+footer {
+    background-color: #333;
+    color: rgb(253, 253, 253);
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.fotocapa {
+    width: 350px;
+    height: 350px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.textcenter {
+    text-align: center;
+}
+
+.exemploum {
+    width: 552px;
+    height: 358px;
+    bottom: 0; 
+    right: 0; 
+    border: 3px solid #333;
+}
+
+.exemplodois {
+    width: 1536px;
+    height: 813px;
+    bottom: 0; 
+    right: 0; 
+    border: 3px solid #333;
+}
+
